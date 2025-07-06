@@ -1,1 +1,1 @@
-# Prediksi Saham TELKOM menggunakn metode BiGRU
+# Prediksi Saham TELKOM menggunakan metode BiGRU
