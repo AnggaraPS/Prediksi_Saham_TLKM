@@ -50,8 +50,4 @@ Menganalisis performa berbagai arsitektur deep learning dalam memprediksi harga 
 - **MAPE**: 0.0167
 - **R²**: 99.54%
 
-📊 **Visualisasi Hasil**
-![Grafik Prediksi](grafik_prediksi.png)
-
----
 
